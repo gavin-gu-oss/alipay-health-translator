@@ -1,0 +1,7 @@
+# GitHub Pages branch deploys run Jekyll, which by default excludes
+# underscore-prefixed paths. Next.js static export puts assets in _next/,
+# so force-include them (and the _not-found route output) verbatim.
+include:
+  - "_next"
+  - "_not-found"
+  - ".nojekyll"
