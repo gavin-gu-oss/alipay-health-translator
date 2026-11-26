@@ -1,3 +1,3 @@
-:HL["/alipay-health-translator/_next/static/chunks/3l1nepop-veji.css","style"]
+:HL["/alipay-health-translator/_next/static/chunks/3vjdrnyu9lx42.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"iXyLX0AyYZkJ3G-WYS5Jb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"FqMmiv0Z70zZkN6HL2n00","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
